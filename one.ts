@@ -42,5 +42,7 @@ It's a way to name an object type.
 You're saying: "If you're going to make an object User, this is the form object User should take. What is in it, and what format is used for it"
 
 What's the difference then between Interface and Type?
- "Almost all features of an interface are available in type, the key distinction is that a type cannot be re-opened to add new properties vs an interface which is always extendable."
+You can't add new keys to a Type after you've declared it (easily). But you can add new keys any time to an Interface.
+
+"Almost all features of an interface are available in type, the key distinction is that a type cannot be re-opened to add new properties vs an interface which is always extendable."
 */

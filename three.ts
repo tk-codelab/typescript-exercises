@@ -70,7 +70,7 @@ persons.forEach(logPerson);
 
 /*
 In my own words:
-When you have to check 'is this key available in this object? then do this' you can use this syntax with
+When you have to check 'Is this key available in this object? Then do this' you can use this syntax:
 
 "key" in object
 
